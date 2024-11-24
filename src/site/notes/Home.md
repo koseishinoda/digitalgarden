@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","pinned":true,"tags":["gardenEntry"],"created":"2024-11-19T23:39:44.475+01:00","updated":"2024-11-22T14:44:39.830+01:00"}
+{"dg-publish":true,"permalink":"/home/","pinned":true,"tags":["gardenEntry"],"created":"2024-11-19T23:39:44.475+01:00","updated":"2024-11-24T23:16:35.179+01:00"}
 ---
 
 New home
@@ -9,4 +9,6 @@ New home
 
 [[Contents/History/The Vis Viva Controversy/1. Introduction\|The Vis Viva Controversy]]
 
+
+# [[Contents/Bookshelf/Bookshelf\|Bookshelf]]
 
