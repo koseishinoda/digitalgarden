@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/contents/history/the-vis-viva-controversy/2-rene-descartes/","title":"2. Descartes's View of the Universe","dgShowToc":true,"created":"2024-11-01T23:32:16.306+01:00","updated":"2024-11-24T23:26:36.795+01:00"}
+{"dg-publish":true,"permalink":"/contents/history/the-vis-viva-controversy/2-rene-descartes/","title":"2. Descartes's View of the Universe","dgShowToc":true,"created":"2024-11-01T23:32:16.306+01:00","updated":"2024-11-24T23:27:36.937+01:00"}
 ---
 
 
@@ -28,7 +28,9 @@ For more details, see [@GaryHatfield2024].
 While Descartes is most renowned for his invention of coordinate system and rationalist philosophy, his work in physics also merits attention. In Principles of Philosophy (Hereinafter denoted as Pr) [@Descartes1985], Descartes articulated three fundamental *laws of nature* .
 
 > **The first law of nature**: *each and every thing, in so far as it can, always continues in the same state; and thus what is once in motion always continues to move.* (PR.II.37)
+> 
 > **The second law of nature**: *all motion is in itself rectilinear; and hence any body moving in a circle always tends to move away from the centre of the circle which it describes.* (PR. II.39)
+> 
 > **The third law**: *if a body collides with another body that is stronger than itself, it loses none of its motion; but if it collides with a weaker body, it loses a quantity of motion equal to that which it imparts to the other body.*  (PR. II.40)
 
 
