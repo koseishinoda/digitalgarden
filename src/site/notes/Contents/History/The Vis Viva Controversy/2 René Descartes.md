@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/contents/history/the-vis-viva-controversy/2-rene-descartes/","title":"2. Descartes's View of the Universe","dgShowToc":true,"created":"2024-11-01T23:32:16.306+01:00","updated":"2024-11-24T23:15:11.995+01:00"}
+{"dg-publish":true,"permalink":"/contents/history/the-vis-viva-controversy/2-rene-descartes/","title":"2. Descartes's View of the Universe","dgShowToc":true,"created":"2024-11-01T23:32:16.306+01:00","updated":"2024-11-24T23:26:36.795+01:00"}
 ---
 
 
@@ -7,8 +7,8 @@
 
 # René Descartes
 
-!["Frans Hals - Portret van René Descartes "|300](/img/user/Contents/History/The Vis Viva Controversy/2 René Descartes_DB/Frans_Hals_-_Portret_van_René_Descartes.jpg) 
 
+![Frans_Hals_-_Portret_van_René_Descartes.jpg|300](/img/user/Contents/History/The%20Vis%20Viva%20Controversy/2%20Ren%C3%A9%20Descartes_DB/Frans_Hals_-_Portret_van_Ren%C3%A9_Descartes.jpg)
 
 René Descartes (1596-1650) stands as one of the most influential figures in modern Western intellectual history. His principal works include:
 	- **Meditations on First Philosophy** (1641) 
