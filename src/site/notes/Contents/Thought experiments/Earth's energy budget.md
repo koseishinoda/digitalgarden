@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/contents/thought-experiments/earth-s-energy-budget/","dgShowToc":true,"created":"2024-11-27T23:32:12.295+01:00","updated":"2024-11-27T23:42:04.169+01:00"}
+{"dg-publish":true,"permalink":"/contents/thought-experiments/earth-s-energy-budget/","dgShowToc":true,"created":"2024-11-27T23:32:12.295+01:00","updated":"2024-11-27T23:42:11.134+01:00"}
 ---
 
 Many believe that our Earth receives most of the energy necessary for life as a whole from the Sun, but let's examine just how much energy Earth actually receives from the Sun. The Sun emits an immense amount of energy, predominantly in the form of electromagnetic radiation spanning the ultraviolet, visible, and infrared regions. The intensity of solar radiation reaching at a distant point is inversely proportional to the square of the distance from the Sun. 
