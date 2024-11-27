@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","pinned":true,"tags":["gardenEntry"],"created":"2024-11-19T23:39:44.475+01:00","updated":"2024-11-27T23:31:58.650+01:00"}
+{"dg-publish":true,"permalink":"/home/","pinned":true,"tags":["gardenEntry"],"created":"2024-11-19T23:39:44.475+01:00","updated":"2024-11-27T23:41:15.725+01:00"}
 ---
 
 
@@ -9,6 +9,7 @@
 
 # Thought experiments
 
+[[Contents/Thought experiments/Earth's energy budget\|Earth's energy budget]]
 
 # [[Contents/Bookshelf/Bookshelf\|Bookshelf]]
 
