@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/contents/thought-experiments/earth-s-energy-budget/","dgShowToc":true,"created":"2024-11-27T23:32:12.295+01:00","updated":"2024-11-27T23:45:58.325+01:00"}
+{"dg-publish":true,"permalink":"/contents/thought-experiments/earth-s-energy-budget/","dgShowToc":true,"created":"2024-11-27T23:32:12.295+01:00","updated":"2024-11-28T23:02:21.605+01:00"}
 ---
 
  
@@ -12,4 +12,5 @@ The figure above, taken from the IPCC 6th Assessment Report[@IntergovernmentalPa
 
 Let us now examine a thought experiment, thereby setting the stage for a deeper exploration of truth. Imagine a hypothetical planet of identical dimensions to Earth, which we call "Darth." For the sake of simplicity, we will disregard the influence of other celestial bodies in the solar system and any orbital dynamics. Darth is surrounded by a multitude of miniature stars, each emitting energy uniformly and homogeneously from every direction towards Darth, ensuring the exact same amount on an annual average as the Earth receives from the Sun. What would be the fate of Darth under these conditions? Darth would experience a perfectly uniform temperature distribution across its surface. The absence of temperature gradients would result in a completely stable climate, eliminating the driving force behind weather systems. The hydrological cycle, which includes evaporation, condensation, and precipitation, would be destroyed, severely limiting the availability of liquid water on the surface. In addition, the absence of a day-night cycle would annihilate any life and its processes relying on this cycle, such as photosynthesis, growth, etc. The lack of environmental variation and seasons would result in a complete homogeneous ecosystem with no biodiversity. 
 
-This thought experiment illustrates that even though Earth and Darth both receive the exactly same amount of energy, Darth would preclude the formation of complex and dynamic systems, inhibiting the evolution of diverse life and rich ecosystem. The inevitable ending for Darth is a planet of death. 
+This thought experiment illustrates that even though Earth and Darth both receive the exactly same amount of energy, Darth would preclude the formation of complex and dynamic systems, inhibiting the evolution of diverse life and rich ecosystem. The inevitable ending for Darth is a planet of death.
+
