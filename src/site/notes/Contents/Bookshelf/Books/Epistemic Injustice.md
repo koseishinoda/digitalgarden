@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/contents/bookshelf/books/epistemic-injustice/","created":"2024-11-24T10:37:18.451+01:00","updated":"2024-12-08T15:29:41.795+01:00"}
+{"dg-publish":true,"permalink":"/contents/bookshelf/books/epistemic-injustice/","created":"2024-11-24T10:37:18.451+01:00","updated":"2024-12-08T15:46:43.295+01:00"}
 ---
-
 
 
 Justice. When we hear this word, it often evokes mixed reactions, or even outright rejection. Justice can serve as a justification, as seen in the ongoing war between Israel and Palestine. What one consider justice may starkly contrast with another's justice. But what about injustice? Injustice does not necessarily imply evil. Unlike justice, instead, injustice represents a space where common understanding might be achieved. 
