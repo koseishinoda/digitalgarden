@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/contents/bookshelf/books/epistemic-injustice/","created":"2024-11-24T10:37:18.451+01:00","updated":"2024-12-08T00:08:00.766+01:00"}
+{"dg-publish":true,"permalink":"/contents/bookshelf/books/epistemic-injustice/","created":"2024-11-24T10:37:18.451+01:00","updated":"2024-12-08T15:29:41.795+01:00"}
 ---
 
 
@@ -31,6 +31,6 @@ Consider a relationship between a supervisor and a female worker in a workplace 
 
 In the book, this is referred to as a lack of a resource. It can be compared to a world partially illuminated by streetlights: we can only perceive the lit areas, while the unlit parts remain obscured, leaving us unable to recognize what lies within them. The placement of these streetlights is often unjustly determined by societal structure and mass media, introducing a bias into which areas are illuminated and which remain in darkness. 
 
-We must acknowledge the existence of these unlit areas—experiences and concepts that lack recognition—and strive to expand the illuminated zones. By doing so, we can create a more inclusive society that acknowledges and address marginalized experiences.
+We must acknowledge the existence of these unlit areas—experiences and concepts that lack recognition—and strive to expand the illuminated zones. By doing so, we can create a more inclusive society that acknowledges and address marginalized experiences. 
 
 ![Image_A_tranquil_rural_nighttime_scene_streetlights.jpg|400](/img/user/Contents/Bookshelf/Books/Epistemic%20injustice%20DB/Image_A_tranquil_rural_nighttime_scene_streetlights.jpg)
