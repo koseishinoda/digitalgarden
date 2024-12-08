@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/development/obsidian/aligning-image/","dgShowToc":true,"created":"2024-12-08T16:40:52.788+01:00","updated":"2024-12-08T16:50:53.091+01:00"}
+{"dg-publish":true,"permalink":"/development/obsidian/aligning-image/","dgShowToc":true,"created":"2024-12-08T16:40:52.788+01:00","updated":"2024-12-08T16:54:29.027+01:00"}
 ---
 
 To align images in Obsidian, a custom CSS snippet is needed. Once it is set, this allows you to center or right-align images while scaling the image size. 
@@ -48,7 +48,7 @@ img[alt*="right"] {
 - `center`: Centers the image.
 - `right`: Aligns the image to the right.
 - `100`: Scales the image to 100 pixels in width.
-- 
+
 # Reference
 
 https://forum.obsidian.md/t/align-image/78050

@@ -10,7 +10,7 @@ Epistemic Injustice by Miranda Fricker was the 6th assigned book of our philosop
 # Testimonial Injustice
 
 Every individual wears metaphorical glasses through which they perceive the world. These glasses magnify topics of personal relevance, such as a professional’s focus on their specific field of expertise or an environmentalist’s focus on ecological conservation, while often blurring those outside their knowledge or focus. They may tint perceptions with biases, coloring opinions in ways that reinforce these perspectives, such as favoring progressive or conservative values, or aligning with specific religious or cultural ideologies. In extreme cases, these glasses create blind spots, rendering certain aspects of reality entirely unseen or misunderstood.
-![Glasses reflecting world map.png|center|350](/img/user/Glasses%20reflecting%20world%20map.png)
+![Glasses reflecting world map.png|center|350](/img/user/Development/Obsidian/9_Pictures/Glasses%20reflecting%20world%20map.png)
 
 Individuals are not born wearing these glasses. Instead, they develop over time, molded and refined by life experiences, acquired knowledge, and interactions. These are profoundly influenced by the societal environment in which one is raised, reflecting its norms, values, and cultural context. The way people perceive the world is, hence, not innate; it is significantly shaped by subjective perceptions, prejudices, and prior judgments, all of which have been formed through life experiences.
 
