@@ -11,5 +11,5 @@
 
 [[Contents/Thought experiments/Earth's energy budget\|Earth's energy budget]]
 
-# [[Contents/Bookshelf/Bookshelf\|Bookshelf]]
+# [[Bookshelf/Bookshelf\|Bookshelf]]
 
