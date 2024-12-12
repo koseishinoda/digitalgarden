@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bookshelf/bookshelf/","dgShowToc":true,"created":"2024-11-24T10:42:27.550+01:00","updated":"2024-12-09T22:24:22.615+01:00"}
+{"dg-publish":true,"permalink":"/bookshelf/bookshelf/","dgShowToc":true,"noteIcon":null,"created":"2024-11-24T10:42:27.550+01:00","updated":"2024-12-09T22:24:22.615+01:00"}
 ---
 
 

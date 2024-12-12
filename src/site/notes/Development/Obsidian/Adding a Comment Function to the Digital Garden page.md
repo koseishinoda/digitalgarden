@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/development/obsidian/adding-a-comment-function-to-the-digital-garden-page/","tags":["Digital_Garden"],"dgShowToc":true,"created":"2024-12-08T09:51:17.538+01:00","updated":"2024-12-08T16:54:33.231+01:00"}
+{"dg-publish":true,"permalink":"/development/obsidian/adding-a-comment-function-to-the-digital-garden-page/","tags":["Digital_Garden"],"dgShowToc":true,"noteIcon":null,"created":"2024-12-08T09:51:17.538+01:00","updated":"2024-12-08T16:54:33.231+01:00"}
 ---
 
 

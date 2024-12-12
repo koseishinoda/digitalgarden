@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/contents/thought-experiments/earth-s-energy-budget/","dgShowToc":true,"created":"2024-11-27T23:32:12.295+01:00","updated":"2024-11-28T23:02:21.605+01:00"}
+{"dg-publish":true,"permalink":"/contents/thought-experiments/earth-s-energy-budget/","dgShowToc":true,"noteIcon":null,"created":"2024-11-27T23:32:12.295+01:00","updated":"2024-11-28T23:02:21.605+01:00"}
 ---
 
  
