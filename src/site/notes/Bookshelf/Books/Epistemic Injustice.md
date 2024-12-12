@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/bookshelf/books/epistemic-injustice/","created":"2024-11-24T10:37:18.451+01:00","updated":"2024-12-13T00:21:01.351+01:00"}
+{"dg-publish":true,"permalink":"/bookshelf/books/epistemic-injustice/","created":"2024-11-24T10:37:18.451+01:00","updated":"2024-12-13T00:58:39.980+01:00"}
 ---
 
 
 
 Justice. When we hear this word, it often evokes mixed reactions, or even outright rejection. Justice can serve as a justification, as seen in the ongoing war between Israel and Palestine. What one consider justice may starkly contrast with another's justice. But what about injustice? Injustice does not necessarily imply evil. Unlike justice, instead, injustice represents a space where common understanding might be achieved. 
 
-*Epistemic Injustice* by Miranda Fricker was the 6th assigned book of our philosophy club over the past 8 month. It is a challenging and intellectually dense book. It offered me a lot of valuable insights. In this short essay, I will attempt to summarize my key takeaways. But before proceeding, I must point out one thing. This book contains no illustrations to aid comprehension. Therefore, I will endeavor to provide some visual representations based on what I imagined while reading. 
+*Epistemic Injustice* by Miranda Fricker was the 6th assigned book of our philosophy book club over the past 8 month. It is a challenging and intellectually dense book. It offered me a lot of valuable insights. In this short essay, I will attempt to summarize my key takeaways. But before proceeding, I must point out one thing. This book contains no illustrations to aid comprehension. Therefore, I will endeavor to provide some visual representations based on what I imagined while reading. 
 
 - - - 
 # Epistemic Injustice
