@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/contents/1-history/1-the-vis-viva-controversy/2-rene-descartes/","title":"2. Descartes's View of the Universe","dgShowToc":true,"noteIcon":null,"created":"2024-11-01T23:32:16.306+01:00","updated":"2024-11-26T23:36:19.973+01:00"}
+{"dg-publish":true,"permalink":"/contents/1-history/1-the-vis-viva-controversy/2-rene-descartes/","title":"2. Descartes's View of the Universe","dgShowToc":true,"created":"2024-11-01T23:32:16.306+01:00","updated":"2024-11-26T23:36:19.973+01:00"}
 ---
 
 

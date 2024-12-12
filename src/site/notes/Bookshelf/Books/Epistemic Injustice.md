@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bookshelf/books/epistemic-injustice/","noteIcon":"2","created":"2024-11-24T10:37:18.451+01:00","updated":"2024-12-13T00:21:01.351+01:00"}
+{"dg-publish":true,"permalink":"/bookshelf/books/epistemic-injustice/","created":"2024-11-24T10:37:18.451+01:00","updated":"2024-12-13T00:21:01.351+01:00"}
 ---
 
 
