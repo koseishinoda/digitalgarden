@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/development/digital-garden-development/adding-a-comment-function/","title":"Adding a Comment Function to the Digital Garden page","tags":["type/tutorial"],"created":"2024-12-08T09:51:17.538+01:00","updated":"2024-12-15T23:16:52.958+01:00"}
+{"dg-publish":true,"dg-path":"Development/Digital Garden/Adding a Comment Function.md","permalink":"/development/digital-garden/adding-a-comment-function/","title":"Adding a Comment Function to the Digital Garden page","tags":["type/tutorial"],"created":"2024-12-08T09:51:17.538+01:00","updated":"2024-12-15T23:16:52.958+01:00"}
 ---
 
 # Adding a Comment Function to the Digital Garden page
