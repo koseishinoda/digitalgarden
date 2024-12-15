@@ -8,9 +8,9 @@
 
 | File                                                                            | Cover                                                                   | Author               |
 | ------------------------------------------------------------------------------- | ----------------------------------------------------------------------- | -------------------- |
-| [[5_Books/Epistemic Injustice\|Epistemic Injustice]]                         | ![[5_Books/_media/Bookcovers/Epistemic Injustice.jpg\|100]]             | Miranda Fricker      |
 | [[5_Books/Oliver Heaviside\|Oliver Heaviside]]                               | ![[5_Books/_media/Bookcovers/Oliver Heaviside.jpg\|100]]                | Paul J. Nahin        |
 | [[5_Books/The Companion Species Manifesto\|The Companion Species Manifesto]] | ![[5_Books/_media/Bookcovers/The Companion Species Manifesto.jpg\|100]] | Donna Jeanne Haraway |
+| [[5_Books/We Are Electric\|We Are Electric]]                                 | ![[5_Books/_media/Bookcovers/We Are Electric.jpg\|100]]                 | Sally Adee           |
 
 { .block-language-dataview}
 
