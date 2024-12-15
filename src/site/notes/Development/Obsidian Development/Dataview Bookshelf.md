@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Development/Obsidian/","permalink":"/development/obsidian//","tags":["type/tutorial","status/done"],"dgShowToc":true,"created":"2024-12-15T09:21:56.920+01:00","updated":"2024-12-15T23:17:39.226+01:00"}
+{"dg-publish":true,"permalink":"/development/obsidian-development/dataview-bookshelf/","tags":["type/tutorial"],"dgShowToc":true,"created":"2024-12-15T09:21:56.920+01:00","updated":"2024-12-15T23:29:23.069+01:00"}
 ---
 
 
