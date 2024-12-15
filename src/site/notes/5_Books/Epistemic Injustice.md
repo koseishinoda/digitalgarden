@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Books/Epistemic Injustice.md","permalink":"/books/epistemic-injustice/","tags":["type/book"],"created":"2024-11-24T10:37:18.451+01:00","updated":"2024-12-15T18:55:39.205+01:00"}
+{"dg-publish":true,"dg-path":"Books/Epistemic Injustice.md","permalink":"/books/epistemic-injustice/","tags":["type/book"],"created":"2024-11-24T10:37:18.451+01:00","updated":"2024-12-15T23:23:35.262+01:00"}
 ---
 
 

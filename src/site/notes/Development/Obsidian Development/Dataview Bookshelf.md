@@ -6,11 +6,11 @@
 # Example
 
 
-| File                                                    | Cover                                                                                                                                   | Author          |
-| ------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- | --------------- |
-| [[5_Books/Epistemic Injustice\|Epistemic Injustice]] | ![Epistemic Injustice](http://books.google.com/books/content?id=mwdREAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api) | Miranda Fricker |
-| [[5_Books/Oliver Heaviside\|Oliver Heaviside]]       | ![Oliver Heaviside](http://books.google.com/books/content?id=e9wEntQmA0IC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)    | Paul J. Nahin   |
-| [[5_Books/We Are Electric\|We Are Electric]]         | ![We Are Electric](http://books.google.com/books/content?id=zQZ_EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)     | Sally Adee      |
+| File                                                                            | Cover                                                                                                                                   | Author               |
+| ------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- | -------------------- |
+| [[5_Books/Epistemic Injustice\|Epistemic Injustice]]                         | ![Epistemic Injustice](http://books.google.com/books/content?id=mwdREAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api) | Miranda Fricker      |
+| [[5_Books/Oliver Heaviside\|Oliver Heaviside]]                               | ![Oliver Heaviside](http://books.google.com/books/content?id=e9wEntQmA0IC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)    | Paul J. Nahin        |
+| [[5_Books/The Companion Species Manifesto\|The Companion Species Manifesto]] | ![The Companion Species Manifesto]()                                                                                                    | Donna Jeanne Haraway |
 
 { .block-language-dataview}
 
