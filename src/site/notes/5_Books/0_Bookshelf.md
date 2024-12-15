@@ -10,7 +10,7 @@
 | [[5_Books/Oliver Heaviside\|Oliver Heaviside]]                               | <img src='http://books.google.com/books/content?id=e9wEntQmA0IC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api' width='100' height='auto'> | Paul J. Nahin        | \-               | <ul><li>To read</li></ul> |
 | [[5_Books/The Companion Species Manifesto\|The Companion Species Manifesto]] | <img src='' width='100' height='auto'>                                                                                                                | Donna Jeanne Haraway | \-               | <ul><li>To read</li></ul> |
 | [[5_Books/The View From Nowhere\|The View From Nowhere]]                     | <img src='http://books.google.com/books/content?id=5cryOCGb2nEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api' width='100' height='auto'> | Thomas Nagel         | \-               | <ul><li>To read</li></ul> |
-| [[5_Books/We Are Electric\|We Are Electric]]                                 | <img src='\-' width='100' height='auto'>                                                                                                              | Sally Adee           | [Social Science] | <ul><li>To read</li></ul> |
+| [[5_Books/We Are Electric\|We Are Electric]]                                 | <img src='http://books.google.com/books/content?id=zQZ_EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api' width='100' height='auto'> | Sally Adee           | [Social Science] | <ul><li>To read</li></ul> |
 
 { .block-language-dataview}
 
