@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Obsidian","permalink":"/obsidian/","dgShowToc":true,"created":"2024-12-15T08:53:51.108+01:00","updated":"2024-12-15T23:12:46.540+01:00"}
+{"dg-publish":true,"dg-path":"Obsidian","permalink":"/obsidian/","tags":["type/MoC"],"dgShowToc":true,"created":"2024-12-15T08:53:51.108+01:00","updated":"2024-12-15T23:18:59.359+01:00"}
 ---
 
 

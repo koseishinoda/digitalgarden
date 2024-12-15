@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/7-topics/thermodynamics/","dgShowToc":true,"created":"2024-12-09T22:50:09.321+01:00","updated":"2024-12-15T23:12:02.895+01:00"}
+{"dg-publish":true,"permalink":"/7-topics/thermodynamics/","tags":["type/MoC"],"dgShowToc":true,"created":"2024-12-09T22:50:09.321+01:00","updated":"2024-12-15T23:18:54.064+01:00"}
 ---
 
 
