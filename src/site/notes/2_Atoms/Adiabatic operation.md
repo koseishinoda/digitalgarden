@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Atoms/Adiabatic operation.md","permalink":"/atoms/adiabatic-operation/","tags":["type/article","topic/thermodynamics"],"created":"2024-12-16T22:43:26.793+01:00","updated":"2024-12-16T23:50:49.087+01:00"}
+{"dg-publish":true,"dg-path":"Atoms/Adiabatic operation.md","permalink":"/atoms/adiabatic-operation/","hide":true,"tags":["type/article","topic/thermodynamics"],"created":"2024-12-16T22:43:26.793+01:00","updated":"2024-12-17T00:02:54.777+01:00"}
 ---
 
 # Definition
