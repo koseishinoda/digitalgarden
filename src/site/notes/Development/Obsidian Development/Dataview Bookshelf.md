@@ -1,16 +1,16 @@
 ---
-{"dg-publish":true,"dg-path":"Development/Obsidian/Dataview Bookshelf.md","permalink":"/development/obsidian/dataview-bookshelf/","tags":["type/tutorial"],"dgShowToc":true,"created":"2024-12-15T09:21:56.920+01:00","updated":"2024-12-15T23:29:23.069+01:00"}
+{"dg-publish":true,"permalink":"/development/obsidian-development/dataview-bookshelf/","tags":["type/tutorial"],"dgShowToc":true,"created":"2024-12-15T09:21:56.920+01:00","updated":"2024-12-15T23:29:23.069+01:00"}
 ---
 
 
 # Example
 
 
-| File                                                                            | Cover                                                                                                                                   | Author               |
-| ------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- | -------------------- |
-| [[5_Books/Epistemic Injustice\|Epistemic Injustice]]                         | ![Epistemic Injustice](http://books.google.com/books/content?id=mwdREAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api) | Miranda Fricker      |
-| [[5_Books/Oliver Heaviside\|Oliver Heaviside]]                               | ![Oliver Heaviside](http://books.google.com/books/content?id=e9wEntQmA0IC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)    | Paul J. Nahin        |
-| [[5_Books/The Companion Species Manifesto\|The Companion Species Manifesto]] | ![The Companion Species Manifesto]()                                                                                                    | Donna Jeanne Haraway |
+| File                                                                            | Cover                                                                                                                                | Author               |
+| ------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ | -------------------- |
+| [[5_Books/Oliver Heaviside\|Oliver Heaviside]]                               | ![Oliver Heaviside](http://books.google.com/books/content?id=e9wEntQmA0IC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api) | Paul J. Nahin        |
+| [[5_Books/The Companion Species Manifesto\|The Companion Species Manifesto]] | ![The Companion Species Manifesto]()                                                                                                 | Donna Jeanne Haraway |
+| [[5_Books/We Are Electric\|We Are Electric]]                                 | ![We Are Electric](http://books.google.com/books/content?id=zQZ_EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)  | Sally Adee           |
 
 { .block-language-dataview}
 
