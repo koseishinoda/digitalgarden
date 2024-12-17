@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/development/adding-dates-to-all-new-notes/","hide":true,"tags":["type/tutorial"],"created":"2024-12-17T22:15:37.307+01:00","updated":"2024-12-17T22:45:01.131+01:00"}
+{"dg-publish":true,"permalink":"/development/adding-dates-to-all-new-notes/","hide":true,"tags":["type/tutorial"],"created":"2024-12-17T22:15:37.307+01:00","updated":"2024-12-17T23:13:33.183+01:00"}
 ---
 
 # Solution

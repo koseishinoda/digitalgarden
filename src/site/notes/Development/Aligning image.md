@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/development/aligning-image/","hide":true,"tags":["type/tutorial"],"created":"2024-12-08T16:40:52.788+01:00","updated":"2024-12-17T22:47:58.480+01:00"}
+{"dg-publish":true,"permalink":"/development/aligning-image/","hide":true,"tags":["type/tutorial"],"created":"2024-12-08T16:40:52.788+01:00","updated":"2024-12-17T23:12:46.337+01:00"}
 ---
 
 
