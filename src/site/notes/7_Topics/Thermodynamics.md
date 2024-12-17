@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Physics/Thermodynamics","permalink":"/physics/thermodynamics/","tags":["type/MoC"],"dgShowToc":true,"created":"2024-12-09T22:50:09.321+01:00","updated":"2024-12-16T23:37:00.762+01:00"}
+{"dg-publish":true,"dg-path":"Physics/Thermodynamics","permalink":"/physics/thermodynamics/","tags":["type/MoC"],"dgShowToc":true,"created":"2024-12-09T22:50:09.321+01:00","updated":"2024-12-18T00:07:07.886+01:00"}
 ---
 
 
@@ -24,6 +24,7 @@ Thermodynamics is often regarded as a universal science that rigorously describe
 # MoC
 
 - [[2_Atoms/Adiabatic operation\|Adiabatic operation]]
+- [[2_Atoms/Internal Energy\|Internal Energy]]
 - [[2_Atoms/Thermodynamics variables\|Thermodynamics variables]]
 - Carnot Cycle 
 - [[2_Atoms/Helmholtz Free Energy\|Helmholtz Free Energy]]
