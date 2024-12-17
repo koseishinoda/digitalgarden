@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Development/Obsidian","permalink":"/development/obsidian/","tags":["type/MoC"],"created":"2024-12-15T08:53:51.108+01:00","updated":"2024-12-17T22:59:14.838+01:00"}
+{"dg-publish":true,"dg-path":"Development/Obsidian","permalink":"/development/obsidian/","tags":["type/MoC"],"created":"2024-12-15T08:53:51.108+01:00","updated":"2024-12-17T23:16:06.038+01:00"}
 ---
 
 
@@ -33,7 +33,7 @@
 - [[Development/Digital Garden Development/Adding a Comment Function\|Adding a Comment Function]]
 
 
-
+-------
 
 # Development log
 
