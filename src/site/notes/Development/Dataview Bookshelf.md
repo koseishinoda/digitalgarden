@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/development/dataview-bookshelf/","hide":true,"tags":["type/tutorial"],"created":"2024-12-15T09:21:56.920+01:00","updated":"2024-12-17T23:12:39.394+01:00"}
+{"dg-publish":true,"permalink":"/development/dataview-bookshelf/","hide":true,"tags":["type/tutorial"],"created":"2024-12-15T09:21:56.920+01:00","updated":"2024-12-17T23:20:14.124+01:00"}
 ---
 
 
