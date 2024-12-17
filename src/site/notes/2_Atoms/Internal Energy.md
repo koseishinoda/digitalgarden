@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Note/Atoms/Internal Energy.md","permalink":"/note/atoms/internal-energy/","tags":["type/article"],"created":"2024-12-17T23:22:59.188+01:00","updated":"2024-12-18T00:06:47.264+01:00"}
+{"dg-publish":true,"dg-path":"Note/Atoms/Internal Energy.md","permalink":"/note/atoms/internal-energy/","tags":["type/article"],"created":"2024-12-17T23:22:59.188+01:00","updated":"2024-12-18T00:07:24.993+01:00"}
 ---
 
 
